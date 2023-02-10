@@ -1,0 +1,23 @@
+Python was implemented / developed in Dec 1989
+
+Python 1  --> Feb 20th 1991  ( Guido Van Rossum )
+
+C --> 1972 ( Dennis Ritchie )
+
+AT & T bell Labs
+
+
+Java --> 1995 ( James Ghosling )
+
+Python 2 --> Oct 16th 2000
+
+PSF --> Python  Software Foundation on 6th March 2001
+
+Python 3 --> Dec 3rd 2008
+
+CWI --> Centrum Wiskunde & Informatica
+
+T.V Serial ---> Monty Python's Flying Circus
+1969 , Comedy , 4 Seasons
+
+
